@@ -1,0 +1,30 @@
+body {
+    background-color: #09dbd450;
+}
+.outer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 400px;
+}
+.heading {
+    display: flex;
+    align-items: center;
+    height: 28px;
+    justify-content: center;
+}
+h1,
+h2 {
+    text-align: center;
+}
+h1 {
+    color: skyblue;
+    background-color: white;
+    display: inline;
+}
+h2 {
+    color: rgb(139,52,52);
+}
+p {
+    
+}
